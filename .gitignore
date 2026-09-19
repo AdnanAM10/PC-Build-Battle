@@ -8,8 +8,6 @@ __pycache__/
 *.db
 *.db-journal
 
-screenshots/
-
 .venv/
 venv/
 env/
