@@ -1,3 +1,7 @@
+# PC Build Battle
+
+A fully offline Python desktop PC-building game. Pick a challenge, assemble eight components, and win over three opinionated judges.
+
 ## Screenshots
 
 ### Home Dashboard
@@ -16,11 +20,6 @@
 ![PC Build Battle Results](screenshots/results.png)
 
 
-
-
-# PC Build Battle
-
-A fully offline Python desktop PC-building game. Pick a challenge, assemble eight components, and win over three opinionated judges.
 
 ## Run
 
