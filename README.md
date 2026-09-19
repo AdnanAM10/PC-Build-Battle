@@ -1,3 +1,23 @@
+## Screenshots
+
+### Home Dashboard
+![PC Build Battle Home](screenshots/home.png)
+
+### PC Builder
+![PC Build Battle Builder](screenshots/build.png)
+
+### Compact Build Challenge
+![Compact Build Challenge](screenshots/compact-build.png)
+
+### Compact Build
+![Compact Build](screenshots/compact.png)
+
+### Results
+![PC Build Battle Results](screenshots/results.png)
+
+
+
+
 # PC Build Battle
 
 A fully offline Python desktop PC-building game. Pick a challenge, assemble eight components, and win over three opinionated judges.
